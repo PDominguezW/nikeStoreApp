@@ -1,8 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { hamburger } from "../assets/icons";
-import { headerLogo } from "../assets/images";
-import { navLinks } from "../constants";
-import SignInSignUpModal from "./SignInSignUp";
+import { Link } from 'react-router-dom';
 
 const Nav = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -46,6 +43,10 @@ const Nav = () => {
     };
   }, []);
 
+  const handleDropdownItemClick = (brand) => {
+    alert(`This is not implemented yet for ${brand}`);
+  };
+
   return (
     <header
       className={`px-4 py-3 bg-gray-800 text-white sticky top-0 z-50 ${
@@ -54,52 +55,47 @@ const Nav = () => {
     >
       <div className="flex items-center justify-between max-w-6xl mx-auto">
         <a href="/" className="text-2xl font-semibold">
-          <img src={headerLogo} alt="logo" className="w-32" />
+          RunningShopChile
         </a>
         <ul className="hidden space-x-6 lg:flex">
-          {navLinks.map((item) => (
-            <li key={item.label}>
-              <a
-                href={item.href}
-                className="hover:text-blue-500 transition duration-300"
-              >
-                {item.label}
-              </a>
-            </li>
-          ))}
+          <li key={"Inicio"}>
+            <a href={"/"} className="hover:text-blue-500 transition duration-300">
+              {"Inicio"}
+            </a>
+          </li>
+          <li key={"Marcas"} className="relative group">
+            <span className="cursor-pointer hover:text-blue-500 transition duration-300">
+              {"Marcas"}
+            </span>
+            <ul className="hidden absolute left-0 mt-2 space-y-2 bg-white text-gray-800 border border-gray-300 group-hover:block">
+              <li>
+                <button
+                  onClick={() => handleDropdownItemClick("Nike")}
+                  className="w-full px-4 py-2 text-left hover:bg-gray-200"
+                >
+                  Nike
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => handleDropdownItemClick("Asics")}
+                  className="w-full px-4 py-2 text-left hover:bg-gray-200"
+                >
+                  Asics
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => handleDropdownItemClick("Adidas")}
+                  className="w-full px-4 py-2 text-left hover:bg-gray-200"
+                >
+                  Adidas
+                </button>
+              </li>
+            </ul>
+          </li>
         </ul>
-        {loggedIn ? (
-          <div className="flex space-x-4 items-center">
-            <button
-              className="text-blue-500 hover:underline"
-              onClick={handleSignOut}
-            >
-              Sign out
-            </button>
-          </div>
-        ) : (
-          <>
-            <div className="hidden lg:flex space-x-4 items-center">
-              <button
-                className="text-white bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded"
-                onClick={openModal}
-              >
-                Sign in
-              </button>
-            </div>
-          </>
-        )}
-        <div className="lg:hidden">
-          <button className="text-white" onClick={openModal}>
-            <img src={hamburger} alt="hamburger icon" className="w-6 h-6" />
-          </button>
-        </div>
       </div>
-      <SignInSignUpModal
-        isOpen={isModalOpen}
-        onClose={closeModal}
-        onSignIn={handleSignIn}
-      />
     </header>
   );
 };

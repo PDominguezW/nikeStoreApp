@@ -1,0 +1,2387 @@
+{
+    "brands": {
+        "asics": {
+            "offers": {
+                "zh": [
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198503-500-500/1011B360_001_SR_RT_GLB.jpg?v=637826080600300000",
+                        "prices": [
+                            "$ 149.990",
+                            "$ 89.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 59996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/244085-500-500/1011B559_001_SR_RT_GLB.jpg?v=637995291247030000",
+                        "prices": [
+                            "$ 59.990",
+                            "$ 35.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 23996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246363-500-500/1011B559_020_SR_RT_GLB.png?v=637998833790770000",
+                        "prices": [
+                            "$ 59.990",
+                            "$ 35.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 23996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246359-500-500/1011B559_003_SR_RT_GLB.png?v=637998833755300000",
+                        "prices": [
+                            "$ 59.990",
+                            "$ 35.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 23996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Masculino - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230227-500-500/1011B368_750_SR_RT_GLB.jpg?v=637980931674000000",
+                        "prices": [
+                            "$ 119.990",
+                            "$ 83.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 35997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 Lite-Show - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236323-500-500/1011B468_001_SR_RT_GLB.jpg?v=637982361402700000",
+                        "prices": [
+                            "$ 109.990",
+                            "$ 76.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 32997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236291-500-500/1011B366_004_SR_RT_GLB.jpg?v=637982361107700000",
+                        "prices": [
+                            "$ 99.990",
+                            "$ 69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 Lite-Show - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245259-500-500/1011B473_001_SR_RT_GLB.jpg?v=637998008239900000",
+                        "prices": [
+                            "$ 149.990",
+                            "$ 104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245293-500-500/1011B559_005_SR_RT_GLB.png?v=637998008579830000",
+                        "prices": [
+                            "$ 59.990",
+                            "$ 41.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 17997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Naranjo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236267-500-500/1011B359_800_SR_RT_GLB.jpg?v=637982360863530000",
+                        "prices": [
+                            "$ 139.990",
+                            "$ 97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243243-500-500/1011B440_004_SR_RT_GLB_PNG_1500x1500-JPG.jpg?v=637987487403170000",
+                        "prices": [
+                            "$ 139.990",
+                            "$ 97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243280-500-500/1011B559_004_SR_RT_GLB.jpg?v=637994503127830000",
+                        "prices": [
+                            "$ 59.990",
+                            "$ 41.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 17997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Naranjo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236267-500-500/1011B359_800_SR_RT_GLB.jpg?v=637982360863530000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Jogger X81 - Masculino - Amarillo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229520-500-500/1201A744_101_SR_RT_GLB.jpg?v=637980924525500000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Trabuco 10 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230266-500-500/1011B329_002_SR_RT_GLB.jpg?v=637980932030970000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243243-500-500/1011B440_004_SR_RT_GLB_PNG_1500x1500-JPG.jpg?v=637987487403170000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243280-500-500/1011B559_004_SR_RT_GLB.jpg?v=637994503127830000",
+                        "prices": [
+                            "$59.990",
+                            "$41.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 17997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Kabuki - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230044-500-500/1011B531_403_SR_RT_GLB.png?v=637980929804670000",
+                        "prices": [
+                            "$59.990",
+                            "$41.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 17997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Dynablast 3 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230117-500-500/1011B460_401_SR_RT_GLB.jpg?v=637980930572530000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236227-500-500/1011B359_403_SR_RT_GLB.jpg?v=637982360483630000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Metaspeed Sky 2 - Unisex - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229627-500-500/1013A115_001_SR_RT_GLB.jpg?v=637980925556200000",
+                        "prices": [
+                            "$219.990",
+                            "$153.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 65997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pacemaker 3 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236496-500-500/1011B657_001_SR_RT_GLB.png?v=637982364088700000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Shinobi - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236447-500-500/1011B653_002_SR_RT_GLB.png?v=637982363255970000",
+                        "prices": [
+                            "$59.990",
+                            "$41.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 17997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Novablast 3 Lite-Show - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230027-500-500/1011B534_001_SR_RT_GLB.jpg?v=637980929611270000",
+                        "prices": [
+                            "$129.990",
+                            "$90.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 38997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Patriot 13 - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230092-500-500/1011B485_020_SR_RT_GLB.jpg?v=637980930365830000",
+                        "prices": [
+                            "$49.990",
+                            "$34.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 14997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Dynablast 3 - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230130-500-500/1011B460_020_SR_RT_GLB.jpg?v=637980930688600000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236196-500-500/1011B359_021_SR_RT_GLB.jpg?v=637982360162030000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Challenger 13 Clay - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/223507-500-500/1041A354_960_SR_RT_GLB.jpg?v=637965389340400000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Resolution 8 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/223296-500-500/1041A079_405_SR_RT_GLB.jpg?v=637965387362730000",
+                        "prices": [
+                            "$119.990",
+                            "$83.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 35997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Resolution 8 - Masculino - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243233-500-500/1041A079_300_SR_RT_GLB.jpg?v=637986674111470000",
+                        "prices": [
+                            "$119.990",
+                            "$83.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 35997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 MK - Masculino - Celeste",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245275-500-500/1011B474_400_SR_RT_GLB.jpg?v=637998008380870000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Challenger 13 Clay - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253792-500-500/1041A221_003_SR_RT_GLB.jpg?v=638101716525000000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Trabuco Terra - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252385-500-500/1011B029_010_SR_RT_GLB.jpg?v=638101703429500000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Rocket 10 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/254251-500-500/1071A054_408_SR_RT_GLB.jpg?v=638101720394570000",
+                        "prices": [
+                            "$69.990",
+                            "$55.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 13998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Masculino - Rojo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252635-500-500/1011B368_700_SR_RT_GLB.jpg?v=638101705743300000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Masculino - Celeste",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252620-500-500/1011B368_401_SR_RT_GLB.jpg?v=638101705598130000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252589-500-500/1011B366_402_SR_RT_GLB.jpg?v=638101705306830000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 MK - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252824-500-500/1011B474_401_SR_RT_GLB.jpg?v=638101707531870000",
+                        "prices": [
+                            "$149.990",
+                            "$119.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 29998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Masculino - Amarillo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252605-500-500/1011B368_301_SR_RT_GLB.jpg?v=638101705456830000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252537-500-500/1011B354_022_SR_RT_GLB.jpg?v=638101704820470000",
+                        "prices": [
+                            "$79.990",
+                            "$63.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 15998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252518-500-500/1011B354_004_SR_RT_GLB.jpg?v=638101704644770000",
+                        "prices": [
+                            "$79.990",
+                            "$63.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 15998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252501-500-500/1011B338_412_SR_RT_GLB.jpg?v=638101704488330000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252484-500-500/1011B338_410_SR_RT_GLB.jpg?v=638101704334400000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 Lite-Show - Masculino - Blanco",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253104-500-500/1011B628_300_SR_RT_GLB.jpg?v=638101710205970000",
+                        "prices": [
+                            "$149.990",
+                            "$119.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 29998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 TR - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252976-500-500/1011B572_750_SR_RT_GLB.jpg?v=638101708996530000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-2000 11 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252757-500-500/1011B441_404_SR_RT_GLB.jpg?v=638101706888300000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-2000 11 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252737-500-500/1011B441_403_SR_RT_GLB.jpg?v=638101706697870000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-2000 11 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252718-500-500/1011B441_006_SR_RT_GLB.jpg?v=638101706517430000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252702-500-500/1011B440_403_SR_RT_GLB.jpg?v=638101706373070000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252571-500-500/1011B366_011_SR_RT_GLB.jpg?v=638101705139970000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252554-500-500/1011B354_403_SR_RT_GLB.jpg?v=638101704983100000",
+                        "prices": [
+                            "$79.990",
+                            "$63.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 15998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252682-500-500/1011B440_402_SR_RT_GLB.jpg?v=638101706187170000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252652-500-500/1011B440_006_SR_RT_GLB.jpg?v=638101705906600000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Masculino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252469-500-500/1011B338_025_SR_RT_GLB.jpg?v=638101704202000000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Quantum 360 VII - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/254611-500-500/1201A867_009_SR_RT_GLB.jpg?v=638101723633130000",
+                        "prices": [
+                            "$129.990",
+                            "$103.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 25998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Challenger 13 Clay - Masculino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253812-500-500/1041A221_400_SR_RT_GLB.jpg?v=638101716687370000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/252666-500-500/1011B440_007_SR_RT_GLB.jpg?v=638101706038830000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Sonoma 15-50 - Masculino - Caf\u00e9",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/254498-500-500/1201A818_200_SR_RT_GLB.jpg?v=638101722572870000",
+                        "prices": [
+                            "$89.990",
+                            "$ 14.999"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 83.33,
+                        "priceDiscount": 74991
+                    }
+                ],
+                "zm": [
+                    {
+                        "name": "Zapatillas ASICS Fuzeblast SE - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/208553-500-500/1012B367_500_SR_RT_GLB.jpg?v=637895248613070000",
+                        "prices": [
+                            "$69.990",
+                            "$41.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 27996
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198559-500-500/1012B202_020_SR_RT_GLB.jpg?v=637826155229230000",
+                        "prices": [
+                            "$149.990",
+                            "$89.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 59996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246412-500-500/1012B365_020_SR_RT_GLB.png?v=637998834236330000",
+                        "prices": [
+                            "$59.990",
+                            "$35.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 23996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246409-500-500/1012B365_001_SR_RT_GLB.png?v=637998834206900000",
+                        "prices": [
+                            "$59.990",
+                            "$35.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 23996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/221338-500-500/1012B208_001_SR_RT_GLB.jpg?v=637941264667830000",
+                        "prices": [
+                            "$119.990",
+                            "$71.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 47996
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198566-500-500/1012B202_500_SR_RT_GLB.jpg?v=637826163819200000",
+                        "prices": [
+                            "$149.990",
+                            "$89.994"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 40.0,
+                        "priceDiscount": 59996
+                    },
+                    {
+                        "name": "Zapatillas ASICS Novablast 3 Lite-Show - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229692-500-500/1012B341_001_SR_RT_GLB.jpg?v=637980926298830000",
+                        "prices": [
+                            "$129.990",
+                            "$90.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 38997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Shogun 4 - Femenino - Rosado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236725-500-500/1012B332_700_SR_RT_GLB.png?v=637982366636630000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 Lite-Show - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236652-500-500/1012B295_001_SR_RT_GLB.jpg?v=637982365702700000",
+                        "prices": [
+                            "$109.990",
+                            "$76.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 32997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229874-500-500/1012B208_750_SR_RT_GLB.jpg?v=637980928051200000",
+                        "prices": [
+                            "$119.990",
+                            "$83.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 35997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236612-500-500/1012B206_003_SR_RT_GLB.jpg?v=637982365297170000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Shogun 4 - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236715-500-500/1012B332_501_SR_RT_GLB.png?v=637982366474970000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 Lite-Show - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236652-500-500/1012B295_001_SR_RT_GLB.jpg?v=637982365702700000",
+                        "prices": [
+                            "$109.990",
+                            "$76.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 32997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229874-500-500/1012B208_750_SR_RT_GLB.jpg?v=637980928051200000",
+                        "prices": [
+                            "$119.990",
+                            "$83.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 35997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236612-500-500/1012B206_003_SR_RT_GLB.jpg?v=637982365297170000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Trabuco 10 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229918-500-500/1012B173_001_SR_RT_GLB.jpg?v=637980928435830000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Shogun 4 - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236715-500-500/1012B332_501_SR_RT_GLB.png?v=637982366474970000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Dynablast 3 - Femenino - Lila",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229786-500-500/1012B289_001_SR_RT_GLB.jpg?v=637980927094830000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pulse 13 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236642-500-500/1012B270_402_SR_RT_GLB.png?v=637982365580500000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pulse 13 - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229847-500-500/1012B270_022_SR_RT_GLB.png?v=637980927713370000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pulse 13 - Femenino - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229855-500-500/1012B270_004_SR_RT_GLB.png?v=637980927831230000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pulse 13 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229865-500-500/1012B270_003_SR_RT_GLB.png?v=637980927958800000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236629-500-500/1012B206_400_SR_RT_GLB.jpg?v=637982365451600000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236595-500-500/1012B202_001_SR_RT_GLB.jpg?v=637982365109100000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Femenino - Lila",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236561-500-500/1012B201_501_SR_RT_GLB.jpg?v=637982364801130000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236510-500-500/1012B201_004_SR_RT_GLB.jpg?v=637982364321170000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/222168-500-500/1012B197_401_SR_RT_GLB.jpg?v=637964383511670000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/222150-500-500/1012B197_003_SR_RT_GLB.jpg?v=637964383343470000",
+                        "prices": [
+                            "$79.990",
+                            "$55.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 23997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 Lite-Show - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245353-500-500/1012B299_001_SR_RT_GLB.jpg?v=637998009107230000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Rosado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245321-500-500/1012B272_700_SR_RT_GLB.jpg?v=637998008837830000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 MK - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245369-500-500/1012B300_400_SR_RT_GLB.jpg?v=637998009250630000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/221455-500-500/1012B272_003_SR_RT_GLB.jpg?v=637946107760170000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Electrus - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243410-500-500/1012B469_020_SR_RT_GLB.jpg?v=637994504229970000",
+                        "prices": [
+                            "$69.990",
+                            "$48.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 20997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Electrus - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243405-500-500/1012B469_001_SR_RT_GLB.jpg?v=637994504167100000",
+                        "prices": [
+                            "$69.990",
+                            "$48.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 20997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Metaspeed Sky 2 - Unisex - Verde",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229627-500-500/1013A115_001_SR_RT_GLB.jpg?v=637980925556200000",
+                        "prices": [
+                            "$219.990",
+                            "$153.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 65997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pacemaker 3 - Femenino - Rosado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236944-500-500/1012B474_700_SR_RT_GLB.png?v=637982369935800000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Pacemaker 3 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236924-500-500/1012B474_002_SR_RT_GLB.png?v=637982369632430000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kimera - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236905-500-500/1012B473_400_SR_RT_GLB.png?v=637982369343470000",
+                        "prices": [
+                            "$99.990",
+                            "$69.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 29997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Spectrum - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236796-500-500/1012B467_001_SR_RT_GLB.png?v=637982367765000000",
+                        "prices": [
+                            "$89.990",
+                            "$62.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 26997
+                    },
+                    {
+                        "name": "Zapatillas ASICS Patriot 13 - Femenino - Celeste",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229723-500-500/1012B312_400_SR_RT_GLB.jpg?v=637980926560600000",
+                        "prices": [
+                            "$49.990",
+                            "$34.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 14997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 Platinum - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236667-500-500/1012B306_001_SR_RT_GLB.jpg?v=637982365832530000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano Lite 3 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/229754-500-500/1012B293_400_SR_RT_GLB.jpg?v=637980926834730000",
+                        "prices": [
+                            "$149.990",
+                            "$104.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 44997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Femenino - Rojo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236578-500-500/1012B201_601_SR_RT_GLB.jpg?v=637982364962030000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Femenino - Lila",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236545-500-500/1012B201_500_SR_RT_GLB.jpg?v=637982364649370000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Nimbus 24 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236530-500-500/1012B201_005_SR_RT_GLB.jpg?v=637982364507430000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/221462-500-500/1012B272_020_SR_RT_GLB.jpg?v=637946133252800000",
+                        "prices": [
+                            "$139.990",
+                            "$97.993"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 30.0,
+                        "priceDiscount": 41997
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 Lite-Show - Femenino - Blanco",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253610-500-500/1012B451_300_SR_RT_GLB.jpg?v=638101714915570000",
+                        "prices": [
+                            "$149.990",
+                            "$119.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 29998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Naranjo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253328-500-500/1012B208_800_SR_RT_GLB.jpg?v=638101712294000000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Amarillo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253313-500-500/1012B208_751_SR_RT_GLB.jpg?v=638101712146770000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253238-500-500/1012B197_004_SR_RT_GLB.jpg?v=638101711443700000",
+                        "prices": [
+                            "$79.990",
+                            "$63.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 15998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Trabuco Terra - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253122-500-500/1012A902_410_SR_RT_GLB.jpg?v=638101710355770000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-2000 11 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253343-500-500/1012B271_006_SR_RT_GLB.jpg?v=638101712447330000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Femenino - Naranjo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253283-500-500/1012B206_706_SR_RT_GLB.jpg?v=638101711855200000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253269-500-500/1012B206_009_SR_RT_GLB.jpg?v=638101711726770000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-1000 11 - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253253-500-500/1012B197_500_SR_RT_GLB.jpg?v=638101711579500000",
+                        "prices": [
+                            "$79.990",
+                            "$63.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 15998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Femenino - Morado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253225-500-500/1012B182_501_SR_RT_GLB.jpg?v=638101711324030000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Cumulus 24 TR - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253549-500-500/1012B387_700_SR_RT_GLB.jpg?v=638101714353170000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253358-500-500/1012B272_402_SR_RT_GLB.jpg?v=638101712608670000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Rojo",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253298-500-500/1012B208_702_SR_RT_GLB.jpg?v=638101711999500000",
+                        "prices": [
+                            "$119.990",
+                            "$95.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 23998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 MK - Femenino - Negro",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253421-500-500/1012B300_500_SR_RT_GLB.jpg?v=638101713191000000",
+                        "prices": [
+                            "$149.990",
+                            "$119.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 29998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Rosado",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253390-500-500/1012B272_701_SR_RT_GLB.jpg?v=638101712897000000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Kayano 29 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253374-500-500/1012B272_403_SR_RT_GLB.jpg?v=638101712750670000",
+                        "prices": [
+                            "$139.990",
+                            "$111.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 27998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253210-500-500/1012B182_405_SR_RT_GLB.jpg?v=638101711182400000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GEL-Excite 9 - Femenino - Gris",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/253195-500-500/1012B182_029_SR_RT_GLB.jpg?v=638101711049470000",
+                        "prices": [
+                            "$74.990",
+                            "$59.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 14998
+                    },
+                    {
+                        "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Azul",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243365-500-500/1012B365_400_SR_RT_GLB.jpg?v=637994503877630000",
+                        "prices": [
+                            "$59.990",
+                            "$47.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 11998
+                    },
+                    {
+                        "name": "Zapatillas ASICS GT-2000 10 - Femenino - Celeste",
+                        "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/222139-500-500/1012B045_405_SR_RT_GLB.jpg?v=637964383241000000",
+                        "prices": [
+                            "$99.990",
+                            "$79.992"
+                        ],
+                        "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                        "offerPorcentage": 20.0,
+                        "priceDiscount": 19998
+                    }
+                ]
+            },
+            "bestOffers": [
+                {
+                    "name": "Zapatillas ASICS GEL-Sonoma 15-50 - Masculino - Caf\u00e9",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/254498-500-500/1201A818_200_SR_RT_GLB.jpg?v=638101722572870000",
+                    "prices": [
+                        "$89.990",
+                        "$ 14.999"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 83.33,
+                    "priceDiscount": 74991
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198503-500-500/1011B360_001_SR_RT_GLB.jpg?v=637826080600300000",
+                    "prices": [
+                        "$ 149.990",
+                        "$ 89.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 59996
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/244085-500-500/1011B559_001_SR_RT_GLB.jpg?v=637995291247030000",
+                    "prices": [
+                        "$ 59.990",
+                        "$ 35.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 23996
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Gris",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246363-500-500/1011B559_020_SR_RT_GLB.png?v=637998833790770000",
+                    "prices": [
+                        "$ 59.990",
+                        "$ 35.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 23996
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246359-500-500/1011B559_003_SR_RT_GLB.png?v=637998833755300000",
+                    "prices": [
+                        "$ 59.990",
+                        "$ 35.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 23996
+                },
+                {
+                    "name": "Zapatillas ASICS Fuzeblast SE - Femenino - Morado",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/208553-500-500/1012B367_500_SR_RT_GLB.jpg?v=637895248613070000",
+                    "prices": [
+                        "$69.990",
+                        "$41.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 27996
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Gris",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198559-500-500/1012B202_020_SR_RT_GLB.jpg?v=637826155229230000",
+                    "prices": [
+                        "$149.990",
+                        "$89.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 59996
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Gris",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246412-500-500/1012B365_020_SR_RT_GLB.png?v=637998834236330000",
+                    "prices": [
+                        "$59.990",
+                        "$35.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 23996
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246409-500-500/1012B365_001_SR_RT_GLB.png?v=637998834206900000",
+                    "prices": [
+                        "$59.990",
+                        "$35.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 23996
+                },
+                {
+                    "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/221338-500-500/1012B208_001_SR_RT_GLB.jpg?v=637941264667830000",
+                    "prices": [
+                        "$119.990",
+                        "$71.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 47996
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Morado",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198566-500-500/1012B202_500_SR_RT_GLB.jpg?v=637826163819200000",
+                    "prices": [
+                        "$149.990",
+                        "$89.994"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 40.0,
+                    "priceDiscount": 59996
+                },
+                {
+                    "name": "Zapatillas ASICS Noosa Tri 14 - Masculino - Verde",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/230227-500-500/1011B368_750_SR_RT_GLB.jpg?v=637980931674000000",
+                    "prices": [
+                        "$ 119.990",
+                        "$ 83.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 35997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Cumulus 24 Lite-Show - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236323-500-500/1011B468_001_SR_RT_GLB.jpg?v=637982361402700000",
+                    "prices": [
+                        "$ 109.990",
+                        "$ 76.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 32997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Cumulus 24 - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236291-500-500/1011B366_004_SR_RT_GLB.jpg?v=637982361107700000",
+                    "prices": [
+                        "$ 99.990",
+                        "$ 69.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 29997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Kayano 29 Lite-Show - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245259-500-500/1011B473_001_SR_RT_GLB.jpg?v=637998008239900000",
+                    "prices": [
+                        "$ 149.990",
+                        "$ 104.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 44997
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/245293-500-500/1011B559_005_SR_RT_GLB.png?v=637998008579830000",
+                    "prices": [
+                        "$ 59.990",
+                        "$ 41.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 17997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Naranjo",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236267-500-500/1011B359_800_SR_RT_GLB.jpg?v=637982360863530000",
+                    "prices": [
+                        "$ 139.990",
+                        "$ 97.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 41997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Kayano 29 - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243243-500-500/1011B440_004_SR_RT_GLB_PNG_1500x1500-JPG.jpg?v=637987487403170000",
+                    "prices": [
+                        "$ 139.990",
+                        "$ 97.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 41997
+                },
+                {
+                    "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/243280-500-500/1011B559_004_SR_RT_GLB.jpg?v=637994503127830000",
+                    "prices": [
+                        "$ 59.990",
+                        "$ 41.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 17997
+                },
+                {
+                    "name": "Zapatillas ASICS GEL-Nimbus 24 - Masculino - Naranjo",
+                    "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/236267-500-500/1011B359_800_SR_RT_GLB.jpg?v=637982360863530000",
+                    "prices": [
+                        "$139.990",
+                        "$97.993"
+                    ],
+                    "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+                    "offerPorcentage": 30.0,
+                    "priceDiscount": 41997
+                }
+            ]
+        },
+        "nike": {
+            "offers": {
+                "zh": [
+                    {
+                        "name": "Nike Revolution 6 FlyEase Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/206991-1000-1000/DC8992_003_A_PREM.jpg?v=637691512910330000",
+                        "prices": [
+                            "$64.990",
+                            "$53.990"
+                        ],
+                        "link": "https://www.nike.cl/dc8992-003-nike-revolution-6-flyease-nn/p",
+                        "offerPorcentage": 16.93,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Revolution 6 Nn",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/207085-1000-1000/DC3728_401_A_PREM.jpg?v=637691515097600000",
+                        "prices": [
+                            "$64.990",
+                            "$53.990"
+                        ],
+                        "link": "https://www.nike.cl/dc3728-401-nike-revolution-6-nn/p",
+                        "offerPorcentage": 16.93,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Flex Experience Run 11 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/384106-1000-1000/DD9284_001_A_PREM.jpg?v=637818504735800000",
+                        "prices": [
+                            "$62.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9284-001-flex-experience-rn-11-nn/p",
+                        "offerPorcentage": 15.88,
+                        "priceDiscount": 10000
+                    },
+                    {
+                        "name": "Nike Air Winflo 9",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/431038-1000-1000/DD6203_001_A_PREM.jpg?v=637842650784900000",
+                        "prices": [
+                            "$102.990",
+                            "$69.990"
+                        ],
+                        "link": "https://www.nike.cl/dd6203-001-nike-air-winflo-9/p",
+                        "offerPorcentage": 32.04,
+                        "priceDiscount": 33000
+                    },
+                    {
+                        "name": "Nike Downshifter 12",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/431127-1000-1000/DD9293_001_A_PREM.jpg?v=637842651990170000",
+                        "prices": [
+                            "$69.990",
+                            "$58.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9293-001-nike-downshifter-12/p",
+                        "offerPorcentage": 15.72,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Flex Experience Run 11 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/556305-1000-1000/DD9284_009_A_PREM.jpg?v=638005977077030000",
+                        "prices": [
+                            "$62.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9284-009-w-nike-air-max-bella-tr-5/p",
+                        "offerPorcentage": 15.88,
+                        "priceDiscount": 10000
+                    },
+                    {
+                        "name": "Nike Downshifter 12",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637488-1000-1000/DD9293_010_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078763866270000",
+                        "prices": [
+                            "$69.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9293-010-nike-downshifter-12/p",
+                        "offerPorcentage": 24.29,
+                        "priceDiscount": 17000
+                    },
+                    {
+                        "name": "Nike Tanjun",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637652-1000-1000/DJ6258_002_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765989070000",
+                        "prices": [
+                            "$72.990",
+                            "$54.990"
+                        ],
+                        "link": "https://www.nike.cl/dj6258-002-nike-tanjun/p",
+                        "offerPorcentage": 24.66,
+                        "priceDiscount": 18000
+                    },
+                    {
+                        "name": "Nike Air Zoom Arcadia 2",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+                        "prices": [
+                            "$79.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+                        "offerPorcentage": 33.75,
+                        "priceDiscount": 27000
+                    },
+                    {
+                        "name": "Nike Omni Multi-Court",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+                        "prices": [
+                            "$54.990",
+                            "$35.990"
+                        ],
+                        "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+                        "offerPorcentage": 34.55,
+                        "priceDiscount": 19000
+                    },
+                    {
+                        "name": "Nike Revolution 6 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/671377-1000-1000/DC3728_013_A_PREM.jpg?v=638151038528630000",
+                        "prices": [
+                            "$64.990",
+                            "$53.990"
+                        ],
+                        "link": "https://www.nike.cl/dc3728-013-nike-revolution-6-next-nature/p",
+                        "offerPorcentage": 16.93,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Pegasus Turbo Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/671405-1000-1000/DM3413_001_A_PREM.jpg?v=638151039330270000",
+                        "prices": [
+                            "$154.990",
+                            "$128.990"
+                        ],
+                        "link": "https://www.nike.cl/dm3413-001-nike-pegasus-turbo-next-nature/p",
+                        "offerPorcentage": 16.78,
+                        "priceDiscount": 26000
+                    },
+                    {
+                        "name": "Nike Winflo 9",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/559061-1000-1000/DD6203_007_A_PREM.jpg?v=638005991945700000",
+                        "prices": [
+                            "$102.990",
+                            "$79.990"
+                        ],
+                        "link": "https://www.nike.cl/dd6203-007-nike-winflo-9/p",
+                        "offerPorcentage": 22.33,
+                        "priceDiscount": 23000
+                    },
+                    {
+                        "name": "Nike Air Zoom Pegasus 39",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/397255-1000-1000/DH4071_001_A_PREM.jpg?v=637830559784170000",
+                        "prices": [
+                            "$129.990",
+                            "$99.990"
+                        ],
+                        "link": "https://www.nike.cl/dh4071-001-nike-air-zoom-pegasus-39/p",
+                        "offerPorcentage": 23.08,
+                        "priceDiscount": 30000
+                    },
+                    {
+                        "name": "Nike Pegasus 39",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637603-1000-1000/DH4071_401_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765357530000",
+                        "prices": [
+                            "$129.990",
+                            "$99.990"
+                        ],
+                        "link": "https://www.nike.cl/dh4071-401-nike-pegasus-39/p",
+                        "offerPorcentage": 23.08,
+                        "priceDiscount": 30000
+                    },
+                    {
+                        "name": "Nike Pegasus 39",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/557694-1000-1000/DH4071_008_A_PREM.jpg?v=638005985340630000",
+                        "prices": [
+                            "$129.990",
+                            "$99.990"
+                        ],
+                        "link": "https://www.nike.cl/dh4071-008-nike-pegasus-39/p",
+                        "offerPorcentage": 23.08,
+                        "priceDiscount": 30000
+                    }
+                ],
+                "zm": [
+                    {
+                        "name": "Nike Run Swift 2",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/560712-1000-1000/CU3528_601_A_PREM.jpg?v=638006805683070000",
+                        "prices": [
+                            "$72.990",
+                            "$46.990"
+                        ],
+                        "link": "https://www.nike.cl/cu3528-601-w-nike-run-swift-2/p",
+                        "offerPorcentage": 35.62,
+                        "priceDiscount": 26000
+                    },
+                    {
+                        "name": "W Nike Revolution 6 Nn",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/207175-1000-1000/DC3729_500_A_PREM.jpg?v=637691516947300000",
+                        "prices": [
+                            "$64.990",
+                            "$53.990"
+                        ],
+                        "link": "https://www.nike.cl/dc3729-500-w-nike-revolution-6-nn/p",
+                        "offerPorcentage": 16.93,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Air Winflo 9",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/446332-1000-1000/DD8686_001_A_PREM.jpg?v=637848685836130000",
+                        "prices": [
+                            "$102.990",
+                            "$69.990"
+                        ],
+                        "link": "https://www.nike.cl/dd8686-001-nike-air-winflo-9/p",
+                        "offerPorcentage": 32.04,
+                        "priceDiscount": 33000
+                    },
+                    {
+                        "name": "Nike Pegasus 39",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/557457-1000-1000/DH4072_600_A_PREM.jpg?v=638005984165070000",
+                        "prices": [
+                            "$129.990",
+                            "$89.990"
+                        ],
+                        "link": "https://www.nike.cl/dh4072-600-nike-pegasus-39/p",
+                        "offerPorcentage": 30.77,
+                        "priceDiscount": 40000
+                    },
+                    {
+                        "name": "Nike Flex Experience Run 11 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/559577-1000-1000/DD9283_006_A_PREM.jpg?v=638005994370570000",
+                        "prices": [
+                            "$62.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9283-006-w-flex-experience-rn-11-nn/p",
+                        "offerPorcentage": 15.88,
+                        "priceDiscount": 10000
+                    },
+                    {
+                        "name": "Nike Renew Serenity Run 2",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/556708-1000-1000/DM0820_100_A_PREM.jpg?v=638005979800970000",
+                        "prices": [
+                            "$82.990",
+                            "$68.990"
+                        ],
+                        "link": "https://www.nike.cl/dm0820-100-w-nike-renew-serenity-run-2/p",
+                        "offerPorcentage": 16.87,
+                        "priceDiscount": 14000
+                    },
+                    {
+                        "name": "Nike Revolution 6 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/593559-1000-1000/DC3729_009_A_PREM.jpg?v=638016359916800000",
+                        "prices": [
+                            "$64.990",
+                            "$53.990"
+                        ],
+                        "link": "https://www.nike.cl/dc3729-009-nike-revolution-6-next-nature/p",
+                        "offerPorcentage": 16.93,
+                        "priceDiscount": 11000
+                    },
+                    {
+                        "name": "Nike Tanjun",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637636-1000-1000/DJ6257_601_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765785500000",
+                        "prices": [
+                            "$72.990",
+                            "$46.990"
+                        ],
+                        "link": "https://www.nike.cl/dj6257-601-nike-tanjun/p",
+                        "offerPorcentage": 35.62,
+                        "priceDiscount": 26000
+                    },
+                    {
+                        "name": "Nike Renew Serenity Run 2",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637680-1000-1000/DM0820_602_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078766327870000",
+                        "prices": [
+                            "$82.990",
+                            "$62.990"
+                        ],
+                        "link": "https://www.nike.cl/dm0820-602-nike-renew-serenity-run-2/p",
+                        "offerPorcentage": 24.1,
+                        "priceDiscount": 20000
+                    },
+                    {
+                        "name": "Nike Air Zoom Arcadia 2",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+                        "prices": [
+                            "$79.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+                        "offerPorcentage": 33.75,
+                        "priceDiscount": 27000
+                    },
+                    {
+                        "name": "Nike Omni Multi-Court",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+                        "prices": [
+                            "$54.990",
+                            "$35.990"
+                        ],
+                        "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+                        "offerPorcentage": 34.55,
+                        "priceDiscount": 19000
+                    },
+                    {
+                        "name": "Nike Free Run 5.0 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/685329-1000-1000/CZ1891_008_A_PREM.jpg?v=638162150206070000",
+                        "prices": [
+                            "$102.990",
+                            "$85.990"
+                        ],
+                        "link": "https://www.nike.cl/cz1891-008-nike-free-run-5-0-next-nature/p",
+                        "offerPorcentage": 16.51,
+                        "priceDiscount": 17000
+                    },
+                    {
+                        "name": "Nike Experience Run 11 Next Nature",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/685428-1000-1000/DD9283_008_A_PREM.jpg?v=638162151630970000",
+                        "prices": [
+                            "$62.990",
+                            "$52.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9283-008-nike-experience-run-11-next-nature/p",
+                        "offerPorcentage": 15.88,
+                        "priceDiscount": 10000
+                    },
+                    {
+                        "name": "Nike Quest 5",
+                        "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/671386-1000-1000/DD9291_400_A_PREM.jpg?v=638151038779400000",
+                        "prices": [
+                            "$76.990",
+                            "$63.990"
+                        ],
+                        "link": "https://www.nike.cl/dd9291-400-nike-quest-5/p",
+                        "offerPorcentage": 16.89,
+                        "priceDiscount": 13000
+                    }
+                ]
+            },
+            "bestOffers": [
+                {
+                    "name": "Nike Run Swift 2",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/560712-1000-1000/CU3528_601_A_PREM.jpg?v=638006805683070000",
+                    "prices": [
+                        "$72.990",
+                        "$46.990"
+                    ],
+                    "link": "https://www.nike.cl/cu3528-601-w-nike-run-swift-2/p",
+                    "offerPorcentage": 35.62,
+                    "priceDiscount": 26000
+                },
+                {
+                    "name": "Nike Tanjun",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637636-1000-1000/DJ6257_601_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765785500000",
+                    "prices": [
+                        "$72.990",
+                        "$46.990"
+                    ],
+                    "link": "https://www.nike.cl/dj6257-601-nike-tanjun/p",
+                    "offerPorcentage": 35.62,
+                    "priceDiscount": 26000
+                },
+                {
+                    "name": "Nike Omni Multi-Court",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+                    "prices": [
+                        "$54.990",
+                        "$35.990"
+                    ],
+                    "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+                    "offerPorcentage": 34.55,
+                    "priceDiscount": 19000
+                },
+                {
+                    "name": "Nike Omni Multi-Court",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+                    "prices": [
+                        "$54.990",
+                        "$35.990"
+                    ],
+                    "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+                    "offerPorcentage": 34.55,
+                    "priceDiscount": 19000
+                },
+                {
+                    "name": "Nike Air Zoom Arcadia 2",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+                    "prices": [
+                        "$79.990",
+                        "$52.990"
+                    ],
+                    "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+                    "offerPorcentage": 33.75,
+                    "priceDiscount": 27000
+                },
+                {
+                    "name": "Nike Air Zoom Arcadia 2",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+                    "prices": [
+                        "$79.990",
+                        "$52.990"
+                    ],
+                    "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+                    "offerPorcentage": 33.75,
+                    "priceDiscount": 27000
+                },
+                {
+                    "name": "Nike Air Winflo 9",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/431038-1000-1000/DD6203_001_A_PREM.jpg?v=637842650784900000",
+                    "prices": [
+                        "$102.990",
+                        "$69.990"
+                    ],
+                    "link": "https://www.nike.cl/dd6203-001-nike-air-winflo-9/p",
+                    "offerPorcentage": 32.04,
+                    "priceDiscount": 33000
+                },
+                {
+                    "name": "Nike Air Winflo 9",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/446332-1000-1000/DD8686_001_A_PREM.jpg?v=637848685836130000",
+                    "prices": [
+                        "$102.990",
+                        "$69.990"
+                    ],
+                    "link": "https://www.nike.cl/dd8686-001-nike-air-winflo-9/p",
+                    "offerPorcentage": 32.04,
+                    "priceDiscount": 33000
+                },
+                {
+                    "name": "Nike Pegasus 39",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/557457-1000-1000/DH4072_600_A_PREM.jpg?v=638005984165070000",
+                    "prices": [
+                        "$129.990",
+                        "$89.990"
+                    ],
+                    "link": "https://www.nike.cl/dh4072-600-nike-pegasus-39/p",
+                    "offerPorcentage": 30.77,
+                    "priceDiscount": 40000
+                },
+                {
+                    "name": "Nike Tanjun",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637652-1000-1000/DJ6258_002_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765989070000",
+                    "prices": [
+                        "$72.990",
+                        "$54.990"
+                    ],
+                    "link": "https://www.nike.cl/dj6258-002-nike-tanjun/p",
+                    "offerPorcentage": 24.66,
+                    "priceDiscount": 18000
+                },
+                {
+                    "name": "Nike Downshifter 12",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637488-1000-1000/DD9293_010_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078763866270000",
+                    "prices": [
+                        "$69.990",
+                        "$52.990"
+                    ],
+                    "link": "https://www.nike.cl/dd9293-010-nike-downshifter-12/p",
+                    "offerPorcentage": 24.29,
+                    "priceDiscount": 17000
+                },
+                {
+                    "name": "Nike Renew Serenity Run 2",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637680-1000-1000/DM0820_602_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078766327870000",
+                    "prices": [
+                        "$82.990",
+                        "$62.990"
+                    ],
+                    "link": "https://www.nike.cl/dm0820-602-nike-renew-serenity-run-2/p",
+                    "offerPorcentage": 24.1,
+                    "priceDiscount": 20000
+                },
+                {
+                    "name": "Nike Air Zoom Pegasus 39",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/397255-1000-1000/DH4071_001_A_PREM.jpg?v=637830559784170000",
+                    "prices": [
+                        "$129.990",
+                        "$99.990"
+                    ],
+                    "link": "https://www.nike.cl/dh4071-001-nike-air-zoom-pegasus-39/p",
+                    "offerPorcentage": 23.08,
+                    "priceDiscount": 30000
+                },
+                {
+                    "name": "Nike Pegasus 39",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637603-1000-1000/DH4071_401_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765357530000",
+                    "prices": [
+                        "$129.990",
+                        "$99.990"
+                    ],
+                    "link": "https://www.nike.cl/dh4071-401-nike-pegasus-39/p",
+                    "offerPorcentage": 23.08,
+                    "priceDiscount": 30000
+                },
+                {
+                    "name": "Nike Pegasus 39",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/557694-1000-1000/DH4071_008_A_PREM.jpg?v=638005985340630000",
+                    "prices": [
+                        "$129.990",
+                        "$99.990"
+                    ],
+                    "link": "https://www.nike.cl/dh4071-008-nike-pegasus-39/p",
+                    "offerPorcentage": 23.08,
+                    "priceDiscount": 30000
+                },
+                {
+                    "name": "Nike Winflo 9",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/559061-1000-1000/DD6203_007_A_PREM.jpg?v=638005991945700000",
+                    "prices": [
+                        "$102.990",
+                        "$79.990"
+                    ],
+                    "link": "https://www.nike.cl/dd6203-007-nike-winflo-9/p",
+                    "offerPorcentage": 22.33,
+                    "priceDiscount": 23000
+                },
+                {
+                    "name": "Nike Revolution 6 FlyEase Next Nature",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/206991-1000-1000/DC8992_003_A_PREM.jpg?v=637691512910330000",
+                    "prices": [
+                        "$64.990",
+                        "$53.990"
+                    ],
+                    "link": "https://www.nike.cl/dc8992-003-nike-revolution-6-flyease-nn/p",
+                    "offerPorcentage": 16.93,
+                    "priceDiscount": 11000
+                },
+                {
+                    "name": "Nike Revolution 6 Nn",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/207085-1000-1000/DC3728_401_A_PREM.jpg?v=637691515097600000",
+                    "prices": [
+                        "$64.990",
+                        "$53.990"
+                    ],
+                    "link": "https://www.nike.cl/dc3728-401-nike-revolution-6-nn/p",
+                    "offerPorcentage": 16.93,
+                    "priceDiscount": 11000
+                },
+                {
+                    "name": "Nike Revolution 6 Next Nature",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/671377-1000-1000/DC3728_013_A_PREM.jpg?v=638151038528630000",
+                    "prices": [
+                        "$64.990",
+                        "$53.990"
+                    ],
+                    "link": "https://www.nike.cl/dc3728-013-nike-revolution-6-next-nature/p",
+                    "offerPorcentage": 16.93,
+                    "priceDiscount": 11000
+                },
+                {
+                    "name": "W Nike Revolution 6 Nn",
+                    "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/207175-1000-1000/DC3729_500_A_PREM.jpg?v=637691516947300000",
+                    "prices": [
+                        "$64.990",
+                        "$53.990"
+                    ],
+                    "link": "https://www.nike.cl/dc3729-500-w-nike-revolution-6-nn/p",
+                    "offerPorcentage": 16.93,
+                    "priceDiscount": 11000
+                }
+            ]
+        },
+        "adidas": {
+            "offers": {
+                "zh": [],
+                "zm": []
+            },
+            "bestOffers": []
+        }
+    },
+    "bestOffers": [
+        {
+            "name": "Zapatillas ASICS GEL-Sonoma 15-50 - Masculino - Caf\u00e9",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/254498-500-500/1201A818_200_SR_RT_GLB.jpg?v=638101722572870000",
+            "prices": [
+                "$89.990",
+                "$ 14.999"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 83.33,
+            "priceDiscount": 74991
+        },
+        {
+            "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Masculino - Negro",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198503-500-500/1011B360_001_SR_RT_GLB.jpg?v=637826080600300000",
+            "prices": [
+                "$ 149.990",
+                "$ 89.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 59996
+        },
+        {
+            "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/244085-500-500/1011B559_001_SR_RT_GLB.jpg?v=637995291247030000",
+            "prices": [
+                "$ 59.990",
+                "$ 35.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 23996
+        },
+        {
+            "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Gris",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246363-500-500/1011B559_020_SR_RT_GLB.png?v=637998833790770000",
+            "prices": [
+                "$ 59.990",
+                "$ 35.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 23996
+        },
+        {
+            "name": "Zapatillas ASICS Versablast 2 SE - Masculino - Negro",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246359-500-500/1011B559_003_SR_RT_GLB.png?v=637998833755300000",
+            "prices": [
+                "$ 59.990",
+                "$ 35.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Hombre?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 23996
+        },
+        {
+            "name": "Zapatillas ASICS Fuzeblast SE - Femenino - Morado",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/208553-500-500/1012B367_500_SR_RT_GLB.jpg?v=637895248613070000",
+            "prices": [
+                "$69.990",
+                "$41.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 27996
+        },
+        {
+            "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Gris",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198559-500-500/1012B202_020_SR_RT_GLB.jpg?v=637826155229230000",
+            "prices": [
+                "$149.990",
+                "$89.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 59996
+        },
+        {
+            "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Gris",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246412-500-500/1012B365_020_SR_RT_GLB.png?v=637998834236330000",
+            "prices": [
+                "$59.990",
+                "$35.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 23996
+        },
+        {
+            "name": "Zapatillas ASICS Versablast 2 SE - Femenino - Negro",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/246409-500-500/1012B365_001_SR_RT_GLB.png?v=637998834206900000",
+            "prices": [
+                "$59.990",
+                "$35.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 23996
+        },
+        {
+            "name": "Zapatillas ASICS Noosa Tri 14 - Femenino - Negro",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/221338-500-500/1012B208_001_SR_RT_GLB.jpg?v=637941264667830000",
+            "prices": [
+                "$119.990",
+                "$71.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 47996
+        },
+        {
+            "name": "Zapatillas ASICS GEL-Nimbus 24 MK - Femenino - Morado",
+            "imageUrl": "https://asicscl.vteximg.com.br/arquivos/ids/198566-500-500/1012B202_500_SR_RT_GLB.jpg?v=637826163819200000",
+            "prices": [
+                "$149.990",
+                "$89.994"
+            ],
+            "link": "https://www.asics.cl/asics/calzado/140/Mujer?PS=12&map=c,c,productClusterIds,specificationFilter_20&O=OrderByBestDiscountDESC#",
+            "offerPorcentage": 40.0,
+            "priceDiscount": 59996
+        },
+        {
+            "name": "Nike Run Swift 2",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/560712-1000-1000/CU3528_601_A_PREM.jpg?v=638006805683070000",
+            "prices": [
+                "$72.990",
+                "$46.990"
+            ],
+            "link": "https://www.nike.cl/cu3528-601-w-nike-run-swift-2/p",
+            "offerPorcentage": 35.62,
+            "priceDiscount": 26000
+        },
+        {
+            "name": "Nike Tanjun",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637636-1000-1000/DJ6257_601_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078765785500000",
+            "prices": [
+                "$72.990",
+                "$46.990"
+            ],
+            "link": "https://www.nike.cl/dj6257-601-nike-tanjun/p",
+            "offerPorcentage": 35.62,
+            "priceDiscount": 26000
+        },
+        {
+            "name": "Nike Omni Multi-Court",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+            "prices": [
+                "$54.990",
+                "$35.990"
+            ],
+            "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+            "offerPorcentage": 34.55,
+            "priceDiscount": 19000
+        },
+        {
+            "name": "Nike Omni Multi-Court",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/638001-1000-1000/DM9026_101_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768470870000",
+            "prices": [
+                "$54.990",
+                "$35.990"
+            ],
+            "link": "https://www.nike.cl/dm9026-101-nike-omni-multi-court/p",
+            "offerPorcentage": 34.55,
+            "priceDiscount": 19000
+        },
+        {
+            "name": "Nike Air Zoom Arcadia 2",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+            "prices": [
+                "$79.990",
+                "$52.990"
+            ],
+            "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+            "offerPorcentage": 33.75,
+            "priceDiscount": 27000
+        },
+        {
+            "name": "Nike Air Zoom Arcadia 2",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/637968-1000-1000/DM8491_400_A_PREM-hei-3144-wid-3144-fmt.jpg?v=638078768253670000",
+            "prices": [
+                "$79.990",
+                "$52.990"
+            ],
+            "link": "https://www.nike.cl/dm8491-400-nike-air-zoom-arcadia-2/p",
+            "offerPorcentage": 33.75,
+            "priceDiscount": 27000
+        },
+        {
+            "name": "Nike Air Winflo 9",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/431038-1000-1000/DD6203_001_A_PREM.jpg?v=637842650784900000",
+            "prices": [
+                "$102.990",
+                "$69.990"
+            ],
+            "link": "https://www.nike.cl/dd6203-001-nike-air-winflo-9/p",
+            "offerPorcentage": 32.04,
+            "priceDiscount": 33000
+        },
+        {
+            "name": "Nike Air Winflo 9",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/446332-1000-1000/DD8686_001_A_PREM.jpg?v=637848685836130000",
+            "prices": [
+                "$102.990",
+                "$69.990"
+            ],
+            "link": "https://www.nike.cl/dd8686-001-nike-air-winflo-9/p",
+            "offerPorcentage": 32.04,
+            "priceDiscount": 33000
+        },
+        {
+            "name": "Nike Pegasus 39",
+            "imageUrl": "https://nikeclprod.vteximg.com.br/arquivos/ids/557457-1000-1000/DH4072_600_A_PREM.jpg?v=638005984165070000",
+            "prices": [
+                "$129.990",
+                "$89.990"
+            ],
+            "link": "https://www.nike.cl/dh4072-600-nike-pegasus-39/p",
+            "offerPorcentage": 30.77,
+            "priceDiscount": 40000
+        }
+    ]
+}

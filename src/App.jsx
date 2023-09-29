@@ -1,37 +1,59 @@
 import { Nav } from "./components";
 import {
-  CustomerReviews,
   Footer,
-  Hero,
   PopularProducts,
-  Services,
-  SpecialOffer,
+  PopularProductsBrand,
   Subscribe,
-  SuperQuality,
 } from "./sections";
+// Import useEffect hook
+import { useEffect, useState } from 'react'; // Import useEffect and useState
+import React from 'react';
+// Import Link
 
 const App = () => {
+  const [bestOffers, setBestOffers] = useState(null); // Create a state variable to store the JSON data
+  const [brands, setBrands] = useState(null); // Create a state variable to store the JSON data
+
+  const sliderSettings = {
+    infinite: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    variableWidth: true,
+    arrows: true, // Add arrows for navigation
+  };
+
+  useEffect(() => {
+    // Function to load the JSON data
+    const fetchData = async () => {
+      try {
+        const response = await fetch('response.json'); // Replace 'data.json' with your JSON file's path
+        const data = await response.json();
+        setBestOffers(data.bestOffers); // Set the state variable to the JSON data
+        setBrands(data.brands); // Set the state variable to the JSON data
+
+      } catch (error) {
+        console.error('Error loading JSON:', error);
+      }
+    };
+
+    fetchData(); // Call the function when the component mounts
+  }, []);
+
+  // If bestOffers is null, return a loading message
+  if (!bestOffers) return <span>Loading...</span>;
+
   return (
     <main className="relative">
       <Nav />
-      <section className="xl:padding-l wide:padding-r padding-b">
-        <Hero />
-      </section>
       <section className="padding">
-        <PopularProducts />
+        {bestOffers && <PopularProducts offers={bestOffers} />}
       </section>
-      <section className="padding">
-        <SuperQuality />
-      </section>
-      <section className="padding-x py-10">
-        <Services />
-      </section>
-      <section className="padding">
-        <SpecialOffer />
-      </section>
-      <section className="bg-pale-blue padding">
-        <CustomerReviews />
-      </section>
+      {/* iter through the brands dict, throught each key and value */}
+      {brands && Object.entries(brands).map(([key, value]) => (
+        <section className="padding">
+          <PopularProductsBrand key={key} name={key} offers={value.offers} bestOffers={value.bestOffers}/>
+        </section>
+      ))}
       <section className="padding-x sm:py-32 py-16 w-full">
         <Subscribe />
       </section>
